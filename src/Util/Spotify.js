@@ -143,7 +143,6 @@ const Spotify = {
 	//					songs to add to the playlist
 	async addSongs(userId, playlistName, songList){
 		const url = `https://api.spotify.com/v1/playlists/${playlistName.id}/tracks`;
-		// const url = `https://api.spotify.com/v1/users/${userId}/playlists/${playlistName.id}/tracks`;
 		const params = {
 			headers: {
 				Authorization: `Bearer ${accessToken}`,
