@@ -27,10 +27,10 @@ In this app we will be using several things from the Spotify Api:
 ![The Music App](/app-img/app.jpg)
 
 1) Before the user can search anything, they must give us permision to some parts of their account
-![Spotify Auth Page](/app-img/authorize.jpg)
+![Spotify Auth Page](/app-img/authorize.JPG)
 
 2) Upon successful authorization, the user can search songs and create playlists
-![The Music App with search results](/app-img/search-songs.jpg)
+![The Music App with search results](/app-img/search-songs.JPG)
 
 3) The created playlist
-![Created playlist on Spotify](/app-img/playlist.jpg)
+![Created playlist on Spotify](/app-img/playlist.JPG)
