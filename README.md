@@ -23,3 +23,5 @@ In this app we will be using several things from the Spotify Api:
 
 4) Add songs to newly created playlist - More Info: https://developer.spotify.com/documentation/web-api/reference/playlists/add-tracks-to-playlist/
 
+# How the app works
+![GitHub Logo](/src/Components/img/bg_image.jpg)
