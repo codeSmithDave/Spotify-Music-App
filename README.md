@@ -23,5 +23,14 @@ In this app we will be using several things from the Spotify Api:
 
 4) Add songs to newly created playlist - More Info: https://developer.spotify.com/documentation/web-api/reference/playlists/add-tracks-to-playlist/
 
-# How the app works
-![GitHub Logo](/src/Components/img/bg_image.jpg)
+# The App
+![The Music App](/app-img/app.jpg)
+
+1) Before the user can search anything, they must give us permision to some parts of their account
+![Spotify Auth Page](/app-img/authorize.jpg)
+
+2) Upon successful authorization, the user can search songs and create playlists
+![The Music App with search results](/app-img/search-songs.jpg)
+
+3) The created playlist
+![Created playlist on Spotify](/app-img/playlist.jpg)
