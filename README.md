@@ -1,5 +1,4 @@
 # Spotify-Music-App
-A ReactJS application that uses Spotify Api to allow the user to search Spotify for songs and save them to custom playlists.
 This is a ReactJS application designed for seamless interaction with the Spotify API, enabling users to manage their music content directly from their account. This project makes use of API integration and user authentication through Spotify's API's, as well as the standard ReactJS components to create a user interface. Key functionalities include:
 
 **Authorization:** Implements Implicit Grant Flow client-side authentication which gives the app access to the user's account for a set amount of time before needing to re-authenticate.
